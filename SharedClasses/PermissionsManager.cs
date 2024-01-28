@@ -317,12 +317,7 @@ namespace vMenuShared
             WPCandyCane,
             WPRailgunXM3,
             WPAcidPackage,
-            // MP2023_01 DLC (V 2944)
             WPTecPistol,
-            // MP2023_02 DLC (V 3095)
-            WPBattleRifle,
-            WPSnowLauncher,
-            WPHackingDevice,
             #endregion
 
             // Weapon Loadouts Menu
